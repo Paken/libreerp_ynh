@@ -45,7 +45,7 @@
                     "fr": "Choisissez la version désirée"
                     "es": "Elige la version deseada"
                 },
-                "choices": ["11", "12", "13", 14", "15", "16"],
+                "choices": ["11", "12", "13", "14", "15", "16"],
                 "default": "16"
             },
             {
